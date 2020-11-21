@@ -1,7 +1,1 @@
-1-
-@Controller esta anotacion es usada para parcar una clase como Controller en SpringMVC mientras @RestController 
-es un controller especial en RESTful especificacion y equivale a la suma de @Controller y @ResponseBody.
-2-
-3-
-4-
-5-
+https://github.com/bmigue/Lab8
